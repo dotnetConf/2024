@@ -1,3 +1,5 @@
+![.NET Conf 2024 Banner](Creative/CallForContent-Banners/cfc-banner-dark.png)
+
 # .NET Conf 2024
 
 .NET Conf 2024 is scheduled for November 12-14 and broadcast live on [YouTube](https://youtube.com/dotnet) and [Twitch](https://twitch.tv/visualstudio), with a player available on our website at [dotnetconf.net](https://dotnetconf.net).
